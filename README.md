@@ -1,5 +1,5 @@
 # delayed-eject
-why does this exist
+A Windows version of floppydisk05's delayed-eject
 
 # Instructions
-use https://github.com/floppydisk05/delayed-eject
+Just run the batch files
